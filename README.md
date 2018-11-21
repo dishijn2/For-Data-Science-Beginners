@@ -106,7 +106,6 @@ Set of Notes with links to help those who are Data Science Beginners
 
 **Importance of Portfolio**
 
-
 * [My freewheeling conversation on Data Science](https://medium.com/@kesari/my-freewheeling-conversation-on-data-science-a34de1211e6d)
 * [How to Build a Data Science Portfolio](https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c?gi=51f41f814cd2)
 
